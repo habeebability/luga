@@ -39,3 +39,10 @@ neon and drizzle orm
 install dotenv
 install drizzle-kit
 install pg as dev dependency
+
+while seeding database, install
+npm i -D tsx
+before running seed.ts script
+
+db:seed: "tsx /seed.ts"
+change to tsx to bun
