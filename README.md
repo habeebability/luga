@@ -46,3 +46,5 @@ before running seed.ts script
 
 db:seed: "tsx /seed.ts"
 change to tsx to bun
+
+install react-use
