@@ -48,7 +48,7 @@ export const Card = ({
         selected && "border-sky-300 bg-sky-100 hover:bg-sky-100",
         selected &&
           status === "correct" &&
-          "border-purple-300 bg-purple-100 hover:bg-purple-100",
+          "border-green-300 bg-green-100 hover:bg-green-100",
         selected &&
           status === "wrong" &&
           "border-rose-100 bg-rose-100 hover:bg-rose-100",
