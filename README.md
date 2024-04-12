@@ -48,3 +48,6 @@ db:seed: "tsx /seed.ts"
 change to tsx to bun
 
 install react-use
+
+install
+react-admin and ra-data-simple-rest
